@@ -1,6 +1,8 @@
 # 기상청 주관 2020년 날씨 빅데이터 콘테스트 데이터분석 부문 장려상 수상작
+[최종 보고서](https://drive.google.com/file/d/1Ncsv_r3jz-TYzcPpP9p7UZWI6KtBBn-4/view)
 - 진행기간 : 2020.04.27 ~ 2020.06.29
 - 주요내용 : 현대 제철 공장의 결로 예측 모델 개발 및 활용방안으로 앱 개발
+- 상명 : 장려상(상금 100만원)
 - 사용언어 : R, Python
 - 공헌한 점
 
@@ -33,7 +35,3 @@
     (4) 모델의 성능은 본선 진출 10팀 중 3등
 
     (5) R shiny 앱 개발
-
-[최종 보고서](https://drive.google.com/file/d/1Ncsv_r3jz-TYzcPpP9p7UZWI6KtBBn-4/view)
-
-결과 : 장려상 수상, 100만원 상금
